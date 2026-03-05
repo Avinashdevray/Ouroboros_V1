@@ -109,7 +109,7 @@ function Navbar() {
           <img
             src="/logo.png"
             alt="Ouroboros Logo"
-            className="h-25 w-auto object-contain brightness-110 group-hover:drop-shadow-[0_0_8px_rgba(16,185,129,0.5)] transition-all"
+            className="h-10 w-auto object-contain brightness-110 group-hover:drop-shadow-[0_0_8px_rgba(16,185,129,0.5)] transition-all"
           />
         </a>
 
